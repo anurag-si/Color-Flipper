@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    height: 100vh;
+}
+
+nav {
+    background: gray;
+}
+
+.nav-center {
+    padding: 1rem;
+    display: flex;
+}
+
+.nav-links {
+    display: flex;
+    gap: 4rem;
+    align-items: center;
+}
+
+ul {
+    list-style-type: none;
+}
